@@ -4,6 +4,9 @@
 
 Скачать `.zip` используя кнопку вверху.
 
+Или скачать последнюю версию по ссылке https://github.com/konstantin-morenko/article-template-dirs/releases/latest/download/package.zip
+https://github.com/konstantin-morenko/article-template-dirs/archive/latest/download/package.zip
+
 Распаковать архив в директорию с названием статьи.
 
 Для работы над статьей удобно использовать [Шаблон Word для научной
